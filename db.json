@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "yard_fee_type": [
     {
-      "id": 1,
-      "title": "hello"
+      "asset": "abc",
+      "code": "E441",
+      "name": "Equity",
+      "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "module": "Equity",
+      "transaction_subcode": "Equity",
+      "active": true
     }
   ],
   "profile": {
