@@ -1,6 +1,7 @@
 {
   "yard_fee_type": [
     {
+      "id":1,
       "asset": "abc",
       "code": "E441",
       "name": "Equity",
